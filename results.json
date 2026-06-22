@@ -1,0 +1,21 @@
+{
+  "accuracy": 0.5587436991081814,
+  "precision": 0.4730702820871891,
+  "recall": 0.5587436991081814,
+  "f1": 0.5084479430742813,
+  "per_class_accuracy": {
+    "articulated_truck": 0.015151515151515152,
+    "bicycle": 0.0,
+    "bus": 0.03488372093023256,
+    "car": 0.8154831199068685,
+    "motorcycle": 0.0,
+    "motorized_vehicle": 0.01020408163265306,
+    "non-motorized_vehicle": 0.0,
+    "pedestrian": 0.0,
+    "pickup_truck": 0.10996563573883161,
+    "single_unit_truck": 0.0,
+    "work_van": 0.029411764705882353
+  },
+  "total_predictions": 2579,
+  "total_ground_truth": 2579
+}
